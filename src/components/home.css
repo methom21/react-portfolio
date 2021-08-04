@@ -1,0 +1,28 @@
+.card-img-top {
+    width: 400px;
+    height: 500px;
+   border-radius: 10%;
+   border: #edc7b7 solid 3px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+
+}
+.card {
+    display: flex;
+    justify-content: center;
+    background-color: #282828;
+}
+.card-text {
+    color: #edc7b7;
+    font-size: 17px;
+    padding: 5px;
+}
+.card-img {
+    width: 300px;
+    height: 350px;
+    border-radius: 10%;
+   border: #edc7b7 solid 3px;
+   margin-bottom: 40px;
+   margin-top: 20px;
+   margin-left: 10px;
+}
