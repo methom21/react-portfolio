@@ -9,5 +9,8 @@ h1 {
     color: #edc7b7;
     border: 4px solid #edc7b7;
     margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }

@@ -4,16 +4,13 @@ h1 {
     background-color: #190061;
     border-radius: 10px;
 }
-.tech {
+.contact-me {
     background-color: #282828;
     color: #edc7b7;
     border: 4px solid #edc7b7;
     margin-top: 0px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
-}
-.Java {
-    height: 50px;
-    width: 50px;
+
 }
