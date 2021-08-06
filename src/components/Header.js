@@ -20,22 +20,22 @@ export default function BootstrapNavbar(){
                 <ul className="navbar-nav">
                   <Link to="/">
                   <li className="nav-item">
-                    <a className="nav-link active" aria-current="page" >About me</a>
+                    <a  href="" className="nav-link active" aria-current="page" >About me</a>
                   </li>
                   </Link>
                   <Link to= "/Home">
                   <li className="nav-item">
-                    <a className="nav-link" >Portfolio</a>
+                    <a href="" className="nav-link" >Portfolio</a>
                   </li>
                   </Link>
                   <Link to="/Resume">
                   <li className="nav-item">
-                    <a className="nav-link" >Resume</a>
+                    <a href=""className="nav-link" >Resume</a>
                   </li>
                   </Link>
                   <Link to ="/Contactme">
                   <li className="nav-item">
-                    <a className="nav-link" >Contact Me</a>
+                    <a href=""className="nav-link" >Contact Me</a>
                   </li>
                   </Link>
                   

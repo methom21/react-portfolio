@@ -12,10 +12,8 @@ function App() {
   return (
     <Router>
       <Header />
-      <Container />
-      <Route exact path="/" >
-      <Aboutme />
-      </Route >
+      <Container>
+      <Route  exact path="/" component={Aboutme}   />
       <Route exact path="/Home">
         <Home />
         <Technologies />
@@ -27,6 +25,7 @@ function App() {
           <Resume />
           
     </Route>
+    </Container>
       <Footer />
     </Router>
   );
