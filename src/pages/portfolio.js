@@ -1,10 +1,12 @@
 import React from 'react'
-import './home.css'
+import '../components/home.css'
 import myImg from '../images/mikeyjamaica.jpg'
 import myApp1 from '../images/myApp1.png'
 import myApp2 from '../images/myApp2.png'
 import myApp3 from '../images/myApp3.png'
 import myApp4 from '../images/myApp4.png'
+import myApp5 from '../images/todo-cinema.png'
+import myApp6 from '../images/todocinemareal.png'
 
 export default function Home(){
     return(
@@ -16,6 +18,8 @@ export default function Home(){
     <a href='https://protected-shore-51969.herokuapp.com/'><img className="card-img" src= {myApp2} alt="App2" /></a>
     <a href='https://fitness-tracker-mt.herokuapp.com/'><img className="card-img" src= {myApp3} alt="App3" /></a>
     <a href='https://github.com/methom21/Project-2-MT-ZK-JA'><img className="card-img" src= {myApp4} alt="App4" /></a>
+    <a href='https://methom21.github.io/password-generator/'><img className="card-img" src= {myApp5} alt="App4" /></a>
+    <a href='https://methom21.github.io/todo-cinema/'><img className="card-img" src= {myApp6} alt="App4" /></a>
   </div>
 </div>
     )
