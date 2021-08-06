@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8a7c62fd.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.314ee64a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.314ee64a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.872b2f22.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.872b2f22.js.map",
+    "static/js/2.c19c2863.chunk.js": "/react-portfolio/static/js/2.c19c2863.chunk.js",
+    "static/js/2.c19c2863.chunk.js.map": "/react-portfolio/static/js/2.c19c2863.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.8a7c62fd.chunk.css.map": "/react-portfolio/static/css/main.8a7c62fd.chunk.css.map",
+    "static/js/2.c19c2863.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.c19c2863.chunk.js.LICENSE.txt",
+    "static/media/ResumeMT.823cdab4.png": "/react-portfolio/static/media/ResumeMT.823cdab4.png",
+    "static/media/mikeyjamaica.749f158c.jpg": "/react-portfolio/static/media/mikeyjamaica.749f158c.jpg",
+    "static/media/myApp1.3e071423.png": "/react-portfolio/static/media/myApp1.3e071423.png",
+    "static/media/myApp2.7f23a150.png": "/react-portfolio/static/media/myApp2.7f23a150.png",
+    "static/media/myApp3.25037ffa.png": "/react-portfolio/static/media/myApp3.25037ffa.png",
+    "static/media/myApp4.d66d94fd.png": "/react-portfolio/static/media/myApp4.d66d94fd.png",
+    "static/media/todo-cinema.33bcb03c.png": "/react-portfolio/static/media/todo-cinema.33bcb03c.png",
+    "static/media/todocinemareal.4f2bb299.png": "/react-portfolio/static/media/todocinemareal.4f2bb299.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872b2f22.js",
+    "static/js/2.c19c2863.chunk.js",
+    "static/css/main.8a7c62fd.chunk.css",
+    "static/js/main.314ee64a.chunk.js"
+  ]
+}
